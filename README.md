@@ -1,4 +1,4 @@
-# [wordtomd](https://jadennl.github.io/wordtomd)
+# [wordtomd](https://jadennl.github.io/pandocwordtutorial)
 
 By Jaden Leonard (Jadennl)
 
@@ -6,4 +6,4 @@ With wordtomd, you can view a tutorial via Github Pages on how to download, inst
 
 ## How to access
 
-Use [this link](https://jadennl.github.io/wordtomd) to access this project.
+Use [this link](https://jadennl.github.io/pandocwordtutorial) to access this project.
