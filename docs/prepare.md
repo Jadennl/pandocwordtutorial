@@ -30,5 +30,3 @@ While Pandoc can easily convert any Word document into a Markdown file, there ar
 8. Sequentially, apply the `Heading 2` style to each sub-section.
 9. Repeat these steps for every sub-section below, going up a header level each time.
 10. Save your edited document.
-
-{% include footer.md %}
